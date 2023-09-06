@@ -13,3 +13,9 @@
     
 
 }
+body{
+    background-image:url ("Bilder'\showcase.jpg");
+}
+.sista_bilden,h2,p{
+    text-align: center;
+}
