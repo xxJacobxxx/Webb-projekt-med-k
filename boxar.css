@@ -1,0 +1,15 @@
+.ruler{
+    font-family:"Roboto Mono";
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+    margin: 15 px;
+    border: solid black 2px;
+}
+.låda{
+    background-color: lightgrey;
+    margin: 20 px;
+    border: 2px solid black;
+    
+
+}
