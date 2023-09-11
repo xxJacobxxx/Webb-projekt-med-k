@@ -8,13 +8,13 @@
 }
 .låda{
     background-color: lightgrey;
-    margin: 20 px;
+    margin: 20px;
     border: 2px solid black;
     
 
 }
 body{
-    background-image:url ("Bilder'\showcase.jpg");
+    background-image: url("./Bilder\'/showcase.jpg");
 }
 .sista_bilden,h2,p{
     text-align: center;
